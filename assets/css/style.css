@@ -1,0 +1,87 @@
+body{
+  width: 1024px;
+  height: 100%;
+  background-image: url("../images/lightning-cat.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.crystal-images{
+  width: 100px;
+  height: 100px;
+}
+
+#header{
+  width: 300px;
+  height: 40px;
+  font-size: 30px;
+  color: silver;
+  background-color: black;
+  text-align: justify;
+}
+#instructions{
+  width: 400px;
+  height: 270px;
+  color: silver;
+  background-color: black;
+}
+
+#bold {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#scoreboard{
+  width: 300px;
+  height: 100px;
+  color: silver;
+  background-color: black;
+  font-size: 110px;
+  float: left;
+  text-align: center;
+}
+
+#standings{
+  width: 20%;
+  height: 100%;
+  color: silver;
+  background-color: black;
+  float: left;
+  font-size: 20px;
+}
+
+#number-to-guess {
+  width: 50%;
+  height: 100%;
+  color: silver;
+  background-color: black;
+  float: left;
+  margin-right: 5px;
+  font-size: 75px;
+  text-align: center;
+}
+
+#wrapper {
+  width: 500px;
+  height: 100px;
+  display: center;
+  overflow: hidden;
+  margin-bottom: -50px;
+}
+
+
+#crystals {
+  height: 90px;
+  width: 450px;
+  padding: -50px;
+}
+
+#scoretitle {
+  width: 300px;
+  height: 30px;
+  background-color: black;
+  color: silver;
+  font-size: 25px;
+  text-align: center;
+}
