@@ -4,12 +4,6 @@ User will be given a random number at the start of the game.There are four cryst
 
      WIN OR LIGHTNING CAT WILL GET MAD!!!!
 
-
-**Getting Started**
-Play here: https://matheny130.github.io/week-4-game/index.html
-
-**Screenshots**
-
 **Home Page**
 ![](/assets/images/start.jpg)
 
